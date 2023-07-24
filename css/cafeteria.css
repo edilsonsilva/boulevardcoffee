@@ -230,6 +230,7 @@ section .uma-fracao ion-icon {
   border: 1px solid silver;
   border-radius: 30px;
   margin: 10px 20px;
+  transition: ease 1s;
 }
 .cat-cardapio a {
   font-family: Arial;
